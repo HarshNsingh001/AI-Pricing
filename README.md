@@ -233,7 +233,7 @@ You will see:
 
 ---
 
-## 🛠️ Engineering Trade‑offs (Intentionally Considered)
+## 🛠️ Engineering Trade‑offs
 
 * Not over‑engineering ML training pipeline (scope control)
 * No external task queue (FaaS complexity avoided)
@@ -242,7 +242,7 @@ You will see:
 
 ---
 
-## 📸 Working Proof (Screenshots) (Screenshots)
+## 📸 Working Proof (/Screenshots)
 
 Below are execution proofs from Swagger UI while testing the assignment:
 
