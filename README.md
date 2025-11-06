@@ -264,7 +264,7 @@ Below are execution proofs from Swagger UI while testing the assignment:
 
 ---
 
-## 📚 Future Improvements (Roadmap)
+## 📚 Future Improvements
 
 🔁 **Temporal price smoothing** to avoid sudden spikes
 📊 **Daily trend modeling** for heat‑map demand curves
@@ -275,7 +275,7 @@ Below are execution proofs from Swagger UI while testing the assignment:
 
 ---
 
-## 🧪 Technical Decisions (Explained Briefly)
+## 🧪 Technical Decisions
 
 **Why FastAPI?**
 
@@ -304,7 +304,7 @@ Below are execution proofs from Swagger UI while testing the assignment:
 
 ---
 
-## 🗂 Why SQLite (default)?
+## 🗂 Why SQLite ?
 
 * Easy to run locally
 * Zero‑install friction
@@ -325,7 +325,7 @@ PostgreSQL is supported via `DATABASE_URL` switch.
 
 ## 👤 Author
 
-Harsh (Assignment Submission)
+Harsh Narayan Singh
 
 ---
 
@@ -338,5 +338,3 @@ Everything tested end‑to‑end:
 * ✅ Snapshot persistence
 * ✅ Swagger interactions
 * ✅ Environment variable loading
-
-**Ready for interviewer review ✅**
