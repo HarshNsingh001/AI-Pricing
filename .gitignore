@@ -1,0 +1,22 @@
+# Ignore environment variables
+.env
+
+# Ignore local SQLite database
+local.db
+*.sqlite3
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+
+# IDE specific
+.vscode/
+.idea/
+
+# Logs
+*.log
